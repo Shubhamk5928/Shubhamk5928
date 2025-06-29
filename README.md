@@ -1,10 +1,9 @@
 # Shubham Kumar
 
-👨‍💻 **Software Developer Engineer**  
+👨‍💻 **Software Developer Engineer @** [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamkquv4/) 
 📧 [shubhamk5928@gmail.com](mailto:shubhamk5928@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-966016233/)
 🔗 [X](https://x.com/shubhamk5928)
-📝 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamkquv4/)
 
 ---
 
