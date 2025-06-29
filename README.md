@@ -1,9 +1,10 @@
 # Shubham Kumar
 
-👨‍💻 **Software Developer**  
-📧 [shubhamk5928@gmail.com](mailto:shubhamk5928@gmail.com) | 📱 +91-8295895415  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-966016233/) | 🌐 [Portfolio](https://shubhamk5928.github.io/shub_Fission/)  
-📝 [SaveFlex](https://shubhamk5928.github.io/SaveFlex2/)
+👨‍💻 **Software Developer Engineer**  
+📧 [shubhamk5928@gmail.com](mailto:shubhamk5928@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-966016233/)
+🔗 [X](https://x.com/shubhamk5928)
+📝 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shubhamkquv4/)
 
 ---
 
@@ -33,22 +34,6 @@ _July 2022 – August 2022 | Delhi, India_
 
 ---
 
-## 📝 Key Projects
-
-### **Raktjeevan’ – e-Blood Bank System**  
-- Developed a **centralized database system** for managing blood donations and donor information.
-- Led the frontend development and contributed to the **system requirements specification**.
-
-### **NIRF Ranking Analysis (2016-2021)**  
-- Analyzed **NIRF rankings** of institutes across India using **Pandas** and **NumPy**.
-- Generated insights and produced an **analyzed Jupyter notebook** as part of a research team.
-
-### **Save Flex**  
-- Built a **Google Notes clone** with **Native React** and **Firebase**, allowing users to perform **CRUD operations**.
-- [Live Demo](https://shubhamk5928.github.io/SaveFlex2/)
-
----
-
 ## 🚀 Contributions
 
 - Contributed to **Project Samarth** under **Ministry of Education**, enhancing educational tools for students.
@@ -64,16 +49,21 @@ _July 2022 – August 2022 | Delhi, India_
 
 ---
 
-## 📈 GitHub Stats
+## 📝 Academic Projects
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamk5928&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### **Raktjeevan – e-Blood Bank System**  
+- Developed a **centralized database system** for managing blood donations and donor information.
+- Led the frontend development and contributed to the **system requirements specification**.
+
+### **NIRF Ranking Analysis (2016-2021)**  
+- Analyzed **NIRF rankings** of institutes across India using **Pandas** and **NumPy**.
+- Generated insights and produced an **analyzed Jupyter notebook** as part of a research team.
 
 ---
 
-## 📣 Connect with Me
+## 📈 GitHub Stats
 
-- **LinkedIn**: [Shubham Kumar](https://www.linkedin.com/in/shubham-kumar-966016233/)
-- **Personal Website**: [shubhamk5928.github.io](https://shubhamk5928.github.io/shub_Fission/)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamk5928&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
